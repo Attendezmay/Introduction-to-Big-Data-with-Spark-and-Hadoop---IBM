@@ -175,6 +175,6 @@
         </tr>
       </tbody>
     </table>
-    <script>window.addEventListener('load', function() 
+    
   </body>
 </html>
